@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 105" role="img" aria-label="状态机">
+  <rect width="320" height="105" fill="#fffaf0"/>
+  <g stroke="#6f6148" stroke-opacity=".06"><path d="M0 20H320M0 40H320M0 60H320M0 80H320M40 0V105M80 0V105M120 0V105M160 0V105M200 0V105M240 0V105M280 0V105"/></g>
+  <g fill="none" stroke="#385047" stroke-width="2.5"><path d="M54 53H120M145 53H212M237 53H284"/><path d="M120 53C128 25 204 25 212 53" stroke="#9fc2aa" stroke-dasharray="7 7"/></g>
+  <g shape-rendering="crispEdges"><circle cx="54" cy="53" r="15" fill="#9bbd96" stroke="#2f7a51" stroke-width="4"/><circle cx="134" cy="53" r="15" fill="#2f7a51" stroke="#1f5e3b" stroke-width="4"/><circle cx="226" cy="53" r="15" fill="#9bbd96" stroke="#2f7a51" stroke-width="4"/><circle cx="284" cy="53" r="15" fill="#2f7a51" stroke="#1f5e3b" stroke-width="4"/><path d="M49 52L54 57L63 45" fill="none" stroke="#fff8ea" stroke-width="3"/></g>
+</svg>

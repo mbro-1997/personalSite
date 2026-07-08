@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 80" role="img" aria-label="工作流编排">
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="900">
+    <text x="22" y="22" fill="#9ccaff" font-size="15">Workflow / Tool Call</text>
+  </g>
+  <g fill="none" stroke-linecap="square" stroke-linejoin="round">
+    <path d="M52 52H112V40H166V52H230V40H284" stroke="#9dafc0" stroke-width="3"/>
+    <path d="M166 52V64H230" stroke="#4f83bc" stroke-width="2" opacity=".55"/>
+  </g>
+  <g shape-rendering="crispEdges">
+    <rect x="34" y="41" width="30" height="22" fill="#185aab"/>
+    <rect x="44" y="48" width="10" height="7" fill="#9ccaff" opacity=".55"/>
+    <rect x="112" y="28" width="34" height="28" fill="#2672c9"/>
+    <rect x="123" y="36" width="11" height="8" fill="#9ccaff" opacity=".55"/>
+    <path d="M178 30L200 52L178 74L156 52Z" fill="#1f65ba"/>
+    <rect x="174" y="47" width="9" height="9" fill="#9ccaff" opacity=".6"/>
+    <rect x="230" y="28" width="34" height="28" fill="#2672c9"/>
+    <rect x="241" y="36" width="11" height="8" fill="#9ccaff" opacity=".55"/>
+    <rect x="284" y="29" width="22" height="22" fill="#185aab"/>
+    <rect x="292" y="36" width="8" height="7" fill="#9ccaff" opacity=".55"/>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 105" role="img" aria-label="交易链路">
+  <rect width="320" height="105" fill="#fffaf0"/>
+  <g stroke="#6f6148" stroke-opacity=".06"><path d="M0 18H320M0 36H320M0 54H320M0 72H320M0 90H320M40 0V105M80 0V105M120 0V105M160 0V105M200 0V105M240 0V105M280 0V105"/></g>
+  <g fill="none" stroke="#375047" stroke-width="2.5" stroke-linecap="square"><path d="M42 52H94V32H144V52H196V72H256"/></g>
+  <g shape-rendering="crispEdges"><rect x="26" y="38" width="34" height="28" fill="#9bbe9d" stroke="#2f7a51" stroke-width="3"/><rect x="94" y="18" width="50" height="28" fill="#f1d28f" stroke="#d1aa54" stroke-width="2"/><rect x="144" y="38" width="54" height="28" fill="#dcebdd" stroke="#7faf87" stroke-width="2"/><rect x="256" y="58" width="38" height="28" fill="#5f9a70" stroke="#2f7a51" stroke-width="3"/><rect x="104" y="28" width="24" height="5" fill="#8a7441" opacity=".55"/><rect x="156" y="48" width="28" height="5" fill="#2f7a51" opacity=".65"/></g>
+</svg>

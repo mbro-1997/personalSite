@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>首页模块小图候选</title>
+    <style>
+      :root {
+        --paper: #f8f4ea;
+        --ink: #121823;
+        --muted: #667085;
+        --green: #24764b;
+        --blue: #1359b7;
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        color: var(--ink);
+        font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        background:
+          linear-gradient(90deg, rgba(72, 62, 44, .06) 1px, transparent 1px),
+          linear-gradient(180deg, rgba(72, 62, 44, .05) 1px, transparent 1px),
+          var(--paper);
+        background-size: 24px 24px;
+      }
+      main { width: min(1440px, calc(100% - 48px)); margin: 0 auto; padding: 32px 0 56px; }
+      h1 { margin: 0 0 8px; font-size: 40px; }
+      p { margin: 0 0 26px; color: var(--muted); font-weight: 700; }
+      section { margin-top: 30px; }
+      h2 { display: flex; align-items: center; gap: 10px; margin: 0 0 16px; font-size: 26px; }
+      h2::before { width: 16px; height: 16px; content: ""; background: var(--green); box-shadow: 18px 0 0 var(--blue); }
+      .grid { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 16px; }
+      article {
+        border: 1px solid rgba(72, 62, 44, .16);
+        background: rgba(255, 252, 245, .76);
+        box-shadow: 8px 8px 0 rgba(72, 62, 44, .055);
+        padding: 10px;
+      }
+      article b { display: block; margin-bottom: 8px; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 12px; color: var(--muted); }
+      img { display: block; width: 100%; aspect-ratio: 3.2 / 1.05; object-fit: contain; background: rgba(255,255,255,.35); }
+      @media (max-width: 1100px) { .grid { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+      @media (max-width: 720px) { .grid { grid-template-columns: 1fr; } main { width: min(100% - 28px, 520px); } }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>首页模块小图候选</h1>
+      <p>先看方向和识别度。选中编号后，再替换进首页对应卡片。</p>
+      <section>
+        <h2>产品能力 Product</h2>
+        <div class="grid">
+          <article><b>P01 需求雷达</b><img src="assets/module-options/product/product-01-research-radar.svg" alt=""></article>
+          <article><b>P02 用户旅程</b><img src="assets/module-options/product/product-02-user-journey.svg" alt=""></article>
+          <article><b>P03 PRD 画布</b><img src="assets/module-options/product/product-03-prd-canvas.svg" alt=""></article>
+          <article><b>P04 角色权限图</b><img src="assets/module-options/product/product-04-role-map.svg" alt=""></article>
+          <article><b>P05 状态机</b><img src="assets/module-options/product/product-05-state-machine.svg" alt=""></article>
+          <article><b>P06 交易链路</b><img src="assets/module-options/product/product-06-trade-chain.svg" alt=""></article>
+          <article><b>P07 指标看板</b><img src="assets/module-options/product/product-07-metrics-board.svg" alt=""></article>
+          <article><b>P08 产品路线图</b><img src="assets/module-options/product/product-08-roadmap.svg" alt=""></article>
+          <article><b>P09 服务蓝图</b><img src="assets/module-options/product/product-09-service-blueprint.svg" alt=""></article>
+          <article><b>P10 实验漏斗</b><img src="assets/module-options/product/product-10-experiment-funnel.svg" alt=""></article>
+        </div>
+      </section>
+      <section>
+        <h2>AI Coding / 技术能力</h2>
+        <div class="grid">
+          <article>
+            <b>C01 Agent 编排</b>
+            <img src="assets/module-options/coding/coding-01-agent-orchestration.svg" alt="">
+          </article>
+          <article><b>C02 Tool Calling</b><img src="assets/module-options/coding/coding-02-tool-calling.svg" alt=""></article>
+          <article><b>C03 API 网关</b><img src="assets/module-options/coding/coding-03-api-gateway.svg" alt=""></article>
+          <article><b>C04 容器部署</b><img src="assets/module-options/coding/coding-04-container-deploy.svg" alt=""></article>
+          <article><b>C05 CI/CD 流水线</b><img src="assets/module-options/coding/coding-05-cicd-pipeline.svg" alt=""></article>
+          <article><b>C06 数据库查询</b><img src="assets/module-options/coding/coding-06-database-query.svg" alt=""></article>
+          <article><b>C07 RAG 向量检索</b><img src="assets/module-options/coding/coding-07-vector-rag.svg" alt=""></article>
+          <article><b>C08 代码审查</b><img src="assets/module-options/coding/coding-08-code-review.svg" alt=""></article>
+          <article><b>C09 日志监控</b><img src="assets/module-options/coding/coding-09-observability.svg" alt=""></article>
+          <article><b>C10 云端发布</b><img src="assets/module-options/coding/coding-10-cloud-release.svg" alt=""></article>
+        </div>
+      </section>
+    </main>
+    <script>
+      document.querySelectorAll("img").forEach((img) => {
+        img.addEventListener("error", () => {
+          img.closest("article").dataset.error = img.getAttribute("src");
+        });
+      });
+    </script>
+  </body>
+</html>

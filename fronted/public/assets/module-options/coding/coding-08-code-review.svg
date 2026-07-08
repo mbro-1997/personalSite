@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 90" role="img" aria-label="代码审查">
+  <rect width="330" height="90" fill="#101a26"/>
+  <g font-family="monospace" font-weight="800"><text x="26" y="24" fill="#70c9ff" font-size="13">diff --check</text><text x="26" y="45" fill="#8fe28c" font-size="13">+ validate input</text><text x="26" y="64" fill="#ff7b72" font-size="13">- skip error path</text></g>
+  <g shape-rendering="crispEdges"><rect x="218" y="18" width="70" height="54" fill="#142b43" stroke="#3b82d6" stroke-width="2"/><path d="M234 45L248 58L274 28" fill="none" stroke="#8fe28c" stroke-width="5"/><rect x="226" y="78" width="76" height="5" fill="#40576e"/></g>
+</svg>

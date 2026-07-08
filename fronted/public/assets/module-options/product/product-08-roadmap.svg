@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 105" role="img" aria-label="产品路线图">
+  <rect width="320" height="105" fill="#fffaf0"/>
+  <g stroke="#6f6148" stroke-opacity=".06"><path d="M0 21H320M0 42H320M0 63H320M0 84H320M40 0V105M80 0V105M120 0V105M160 0V105M200 0V105M240 0V105M280 0V105"/></g>
+  <path d="M34 70H286" stroke="#385047" stroke-width="3"/>
+  <g shape-rendering="crispEdges"><rect x="46" y="36" width="44" height="34" fill="#9bbe9d" stroke="#2f7a51" stroke-width="3"/><rect x="116" y="22" width="52" height="48" fill="#f1d28f" stroke="#d1aa54" stroke-width="2"/><rect x="196" y="42" width="50" height="28" fill="#dcebdd" stroke="#7faf87" stroke-width="2"/><path d="M270 20L292 34L270 48Z" fill="#2f7a51"/><rect x="56" y="48" width="22" height="5" fill="#d7e7d6"/><rect x="128" y="34" width="26" height="5" fill="#8a7441" opacity=".55"/><rect x="208" y="52" width="24" height="5" fill="#2f7a51" opacity=".65"/></g>
+</svg>

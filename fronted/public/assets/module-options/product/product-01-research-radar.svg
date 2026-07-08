@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 105" role="img" aria-label="需求雷达">
+  <rect width="320" height="105" fill="#fffaf0"/>
+  <g stroke="#6f6148" stroke-opacity=".07"><path d="M0 18H320M0 36H320M0 54H320M0 72H320M0 90H320M32 0V105M64 0V105M96 0V105M128 0V105M160 0V105M192 0V105M224 0V105M256 0V105M288 0V105"/></g>
+  <g fill="none" stroke="#2f7a51" stroke-width="2.2" opacity=".45"><circle cx="88" cy="52" r="34"/><circle cx="88" cy="52" r="22"/><path d="M88 18V86M54 52H122M64 28L112 76M112 28L64 76"/></g>
+  <path d="M88 30L110 45L101 70L72 66L64 42Z" fill="#6ea27b" fill-opacity=".55" stroke="#2f7a51" stroke-width="3"/>
+  <g shape-rendering="crispEdges"><rect x="164" y="22" width="94" height="12" fill="#2f7a51"/><rect x="164" y="45" width="122" height="8" fill="#c9c0ae"/><rect x="164" y="62" width="86" height="8" fill="#d6cebd"/><rect x="267" y="24" width="12" height="12" fill="#d7b35f" fill-opacity=".42"/></g>
+</svg>

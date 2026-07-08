@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 96" role="img" aria-label="角色建模">
+  <defs>
+    <pattern id="grid" width="12" height="12" patternUnits="userSpaceOnUse">
+      <path d="M12 0H0V12" fill="none" stroke="#6f6148" stroke-opacity=".06" stroke-width="1"/>
+    </pattern>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="3" dy="4" stdDeviation="0" flood-color="#8b7b5d" flood-opacity=".16"/>
+    </filter>
+  </defs>
+  <rect width="280" height="96" fill="url(#grid)"/>
+  <g filter="url(#soft)" shape-rendering="crispEdges">
+    <g transform="translate(16 17)">
+      <rect x="7" y="0" width="20" height="8" fill="#18212d"/>
+      <rect x="4" y="8" width="26" height="24" fill="#f1bd8f"/>
+      <rect x="9" y="17" width="4" height="4" fill="#15202c"/>
+      <rect x="21" y="17" width="4" height="4" fill="#15202c"/>
+      <rect x="4" y="32" width="26" height="12" fill="#2d7a52"/>
+      <rect x="0" y="44" width="34" height="13" fill="#5f9774"/>
+      <rect x="3" y="54" width="28" height="4" fill="#27573f"/>
+    </g>
+    <g transform="translate(72 17)">
+      <rect x="5" y="0" width="28" height="32" fill="#55916d"/>
+      <rect x="10" y="9" width="4" height="5" fill="#132018"/>
+      <rect x="24" y="9" width="4" height="5" fill="#132018"/>
+      <rect x="15" y="21" width="10" height="3" fill="#386a4b"/>
+      <rect x="2" y="35" width="34" height="22" fill="#2f7a51"/>
+      <rect x="7" y="40" width="24" height="6" fill="#75a98a"/>
+      <rect x="0" y="54" width="38" height="4" fill="#24533b"/>
+    </g>
+    <g transform="translate(130 17)">
+      <rect x="10" y="0" width="24" height="10" fill="#2f7a51"/>
+      <rect x="6" y="8" width="30" height="25" fill="#79a985"/>
+      <path d="M21 5L34 29H8Z" fill="#2c7650"/>
+      <rect x="13" y="18" width="5" height="5" fill="#173425"/>
+      <rect x="26" y="18" width="5" height="5" fill="#173425"/>
+      <rect x="2" y="36" width="38" height="21" fill="#5f9b75"/>
+      <rect x="8" y="42" width="26" height="4" fill="#2d6547"/>
+    </g>
+  </g>
+  <g stroke="#d0c8b8" stroke-width="6" stroke-linecap="square">
+    <path d="M188 24H258"/>
+    <path d="M188 43H242"/>
+    <path d="M188 62H264"/>
+  </g>
+  <g fill="#d8b565" fill-opacity=".34" shape-rendering="crispEdges">
+    <rect x="254" y="11" width="9" height="9"/>
+    <rect x="222" y="72" width="7" height="7"/>
+  </g>
+</svg>

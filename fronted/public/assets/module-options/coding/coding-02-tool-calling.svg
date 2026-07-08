@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 90" role="img" aria-label="Tool Calling">
+  <rect width="330" height="90" fill="#101a26"/>
+  <g stroke="#26394c" stroke-width="1"><path d="M0 18H330M0 36H330M0 54H330M0 72H330M33 0V90M66 0V90M99 0V90M132 0V90M165 0V90M198 0V90M231 0V90M264 0V90M297 0V90"/></g>
+  <text x="22" y="22" fill="#9ccaff" font-family="monospace" font-size="14" font-weight="800">tool.call()</text>
+  <g fill="none" stroke="#9dafc0" stroke-width="3"><path d="M48 56H105M135 56H198M228 56H286"/></g>
+  <g shape-rendering="crispEdges"><rect x="28" y="44" width="28" height="24" fill="#185aab"/><rect x="105" y="36" width="30" height="40" fill="#2672c9"/><rect x="198" y="36" width="30" height="40" fill="#2672c9"/><rect x="286" y="44" width="22" height="24" fill="#185aab"/><rect x="115" y="46" width="10" height="8" fill="#9ccaff" opacity=".7"/><rect x="208" y="46" width="10" height="8" fill="#9ccaff" opacity=".7"/></g>
+</svg>

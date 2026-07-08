@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 90" role="img" aria-label="容器部署">
+  <rect width="330" height="90" fill="#101a26"/>
+  <g shape-rendering="crispEdges"><path d="M30 30H70V66H30Z" fill="#1f6ac2" stroke="#8cc5ff" stroke-width="2"/><path d="M42 18H82V54H70V30H42Z" fill="#2e82dd" stroke="#8cc5ff" stroke-width="2"/><path d="M54 8H94V44H82V18H54Z" fill="#4a9af0" stroke="#8cc5ff" stroke-width="2" opacity=".75"/><rect x="42" y="43" width="8" height="8" fill="#cfe8ff"/><rect x="55" y="43" width="8" height="8" fill="#cfe8ff"/></g>
+  <text x="116" y="33" fill="#dfe8f5" font-family="monospace" font-size="15" font-weight="800">$ docker compose up -d</text>
+  <text x="116" y="62" fill="#8fe28c" font-family="monospace" font-size="15" font-weight="800">✓ Service started</text>
+</svg>

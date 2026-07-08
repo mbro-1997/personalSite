@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 90" role="img" aria-label="API 网关">
+  <rect width="330" height="90" fill="#101a26"/>
+  <g stroke="#26394c" stroke-width="1"><path d="M0 18H330M0 36H330M0 54H330M0 72H330M33 0V90M66 0V90M99 0V90M132 0V90M165 0V90M198 0V90M231 0V90M264 0V90M297 0V90"/></g>
+  <g fill="none" stroke="#7eaad5" stroke-width="3"><path d="M42 30H116M42 60H116M214 45H288"/></g>
+  <g shape-rendering="crispEdges"><rect x="116" y="22" width="78" height="46" fill="#142b43" stroke="#3b82d6" stroke-width="2"/><rect x="134" y="34" width="42" height="8" fill="#9ccaff"/><rect x="134" y="50" width="28" height="8" fill="#8fe28c"/><rect x="28" y="22" width="24" height="18" fill="#185aab"/><rect x="28" y="52" width="24" height="18" fill="#185aab"/><rect x="288" y="34" width="24" height="24" fill="#2672c9"/></g>
+  <text x="132" y="18" fill="#9ccaff" font-family="monospace" font-size="12" font-weight="800">API</text>
+</svg>

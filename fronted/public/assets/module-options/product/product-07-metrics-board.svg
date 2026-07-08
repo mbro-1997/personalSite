@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 105" role="img" aria-label="指标看板">
+  <rect width="320" height="105" fill="#fffaf0"/>
+  <g stroke="#6f6148" stroke-opacity=".06"><path d="M0 20H320M0 40H320M0 60H320M0 80H320M40 0V105M80 0V105M120 0V105M160 0V105M200 0V105M240 0V105M280 0V105"/></g>
+  <g shape-rendering="crispEdges"><rect x="24" y="20" width="70" height="28" fill="#dcebdd" stroke="#7faf87" stroke-width="2"/><rect x="24" y="58" width="70" height="28" fill="#fff8ea" stroke="#d3c6af" stroke-width="2"/><rect x="118" y="18" width="174" height="68" fill="#fff8ea" stroke="#d3c6af" stroke-width="2"/><rect x="138" y="62" width="18" height="14" fill="#9bbe9d"/><rect x="170" y="50" width="18" height="26" fill="#5f9a70"/><rect x="202" y="36" width="18" height="40" fill="#2f7a51"/><rect x="234" y="45" width="18" height="31" fill="#d7b35f" fill-opacity=".55"/><path d="M138 42L174 30L210 36L252 24" fill="none" stroke="#2f7a51" stroke-width="3"/></g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 105" role="img" aria-label="用户旅程">
+  <rect width="320" height="105" fill="#fffaf0"/>
+  <g stroke="#6f6148" stroke-opacity=".06"><path d="M0 20H320M0 40H320M0 60H320M0 80H320M40 0V105M80 0V105M120 0V105M160 0V105M200 0V105M240 0V105M280 0V105"/></g>
+  <path d="M36 62C72 26 102 82 138 46S204 26 244 58s58-2 64-22" fill="none" stroke="#2f7a51" stroke-width="4" stroke-linecap="square"/>
+  <g shape-rendering="crispEdges"><rect x="28" y="51" width="22" height="22" fill="#9bbe9d" stroke="#2f7a51" stroke-width="3"/><circle cx="134" cy="46" r="12" fill="#2f7a51"/><path d="M236 46L252 62L236 78L220 62Z" fill="#7fb488" stroke="#2f7a51" stroke-width="3"/><rect x="282" y="23" width="22" height="22" fill="#5f9a70" stroke="#2f7a51" stroke-width="3"/></g>
+  <g fill="#c9c0ae"><rect x="32" y="82" width="46" height="5"/><rect x="118" y="75" width="54" height="5"/><rect x="214" y="84" width="66" height="5"/></g>
+</svg>

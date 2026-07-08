@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 92" role="img" aria-label="产品需求画布">
+  <defs>
+    <pattern id="prd-grid" width="12" height="12" patternUnits="userSpaceOnUse">
+      <path d="M12 0H0V12" fill="none" stroke="#6f6148" stroke-opacity=".05" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="300" height="92" fill="url(#prd-grid)"/>
+  <g shape-rendering="crispEdges">
+    <rect x="18" y="18" width="70" height="52" fill="#fff8ea" stroke="#d3c6af" stroke-width="2"/>
+    <rect x="29" y="29" width="24" height="7" fill="#2f7a51"/>
+    <rect x="29" y="44" width="43" height="5" fill="#c9c0ae"/>
+    <rect x="29" y="56" width="35" height="5" fill="#c9c0ae"/>
+    <rect x="102" y="14" width="64" height="25" fill="#f3d394" stroke="#d4ad5a" stroke-width="2"/>
+    <rect x="112" y="23" width="30" height="5" fill="#8a7441" opacity=".55"/>
+    <rect x="102" y="52" width="64" height="25" fill="#dcebdd" stroke="#7faf87" stroke-width="2"/>
+    <rect x="112" y="61" width="36" height="5" fill="#2f7a51" opacity=".65"/>
+    <rect x="184" y="18" width="86" height="54" fill="#fffaf0" stroke="#d3c6af" stroke-width="2"/>
+    <path d="M198 47L215 31L236 48L258 27" fill="none" stroke="#2f7a51" stroke-width="4" stroke-linejoin="round"/>
+    <rect x="198" y="58" width="50" height="5" fill="#c9c0ae"/>
+    <rect x="198" y="66" width="38" height="5" fill="#d5cab8"/>
+    <rect x="258" y="16" width="8" height="8" fill="#d7b35f" fill-opacity=".45"/>
+    <rect x="174" y="43" width="7" height="7" fill="#6ea27b" fill-opacity=".45"/>
+  </g>
+</svg>

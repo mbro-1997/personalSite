@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 104" role="img" aria-label="MySQL 查询">
+  <g shape-rendering="crispEdges">
+    <ellipse cx="55" cy="33" rx="28" ry="11" fill="#58a1ff" stroke="#7cb9ff" stroke-width="2"/>
+    <path d="M27 33v42c0 6 13 11 28 11s28-5 28-11V33" fill="#2c7ed6" stroke="#7cb9ff" stroke-width="2"/>
+    <path d="M27 47c0 6 13 11 28 11s28-5 28-11" fill="none" stroke="#0d3d72" stroke-width="3"/>
+    <path d="M27 62c0 6 13 11 28 11s28-5 28-11" fill="none" stroke="#0d3d72" stroke-width="3"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="850" font-size="16">
+    <text x="110" y="35" fill="#dfe8f5">SELECT *</text>
+    <text x="110" y="59" fill="#dfe8f5">FROM orders</text>
+    <text x="110" y="83" fill="#dfe8f5">WHERE status = </text>
+    <text x="253" y="83" fill="#e3b457">'paid'</text>
+  </g>
+</svg>

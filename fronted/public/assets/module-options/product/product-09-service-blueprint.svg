@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 105" role="img" aria-label="服务蓝图">
+  <rect width="320" height="105" fill="#fffaf0"/>
+  <g stroke="#6f6148" stroke-opacity=".06"><path d="M0 21H320M0 42H320M0 63H320M0 84H320M40 0V105M80 0V105M120 0V105M160 0V105M200 0V105M240 0V105M280 0V105"/></g>
+  <g fill="none" stroke="#d3c6af" stroke-width="2"><path d="M26 34H292M26 60H292M26 86H292"/></g>
+  <g shape-rendering="crispEdges"><rect x="38" y="18" width="44" height="22" fill="#9bbe9d" stroke="#2f7a51" stroke-width="2"/><rect x="116" y="44" width="52" height="22" fill="#f1d28f" stroke="#d1aa54" stroke-width="2"/><rect x="202" y="18" width="58" height="22" fill="#dcebdd" stroke="#7faf87" stroke-width="2"/><rect x="72" y="70" width="60" height="22" fill="#fff8ea" stroke="#d3c6af" stroke-width="2"/><rect x="188" y="70" width="70" height="22" fill="#fff8ea" stroke="#d3c6af" stroke-width="2"/><path d="M82 29H116M168 55H202M132 81H188" stroke="#385047" stroke-width="2.5"/></g>
+</svg>

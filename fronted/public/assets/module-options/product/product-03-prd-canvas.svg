@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 105" role="img" aria-label="PRD 画布">
+  <rect width="320" height="105" fill="#fffaf0"/>
+  <g stroke="#6f6148" stroke-opacity=".06"><path d="M0 18H320M0 36H320M0 54H320M0 72H320M0 90H320M32 0V105M64 0V105M96 0V105M128 0V105M160 0V105M192 0V105M224 0V105M256 0V105M288 0V105"/></g>
+  <g shape-rendering="crispEdges"><rect x="28" y="18" width="82" height="68" fill="#fff8ea" stroke="#d3c6af" stroke-width="2"/><rect x="42" y="32" width="28" height="6" fill="#2f7a51"/><rect x="42" y="49" width="52" height="5" fill="#c9c0ae"/><rect x="42" y="62" width="38" height="5" fill="#d6cebd"/><rect x="132" y="18" width="70" height="28" fill="#f1d28f" stroke="#d1aa54" stroke-width="2"/><rect x="132" y="58" width="70" height="28" fill="#dcebdd" stroke="#7faf87" stroke-width="2"/><rect x="224" y="18" width="70" height="68" fill="#fff8ea" stroke="#d3c6af" stroke-width="2"/><path d="M236 65L251 44L264 54L284 29" fill="none" stroke="#2f7a51" stroke-width="4"/></g>
+</svg>

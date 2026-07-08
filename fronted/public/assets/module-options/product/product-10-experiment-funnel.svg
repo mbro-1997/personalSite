@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 105" role="img" aria-label="实验漏斗">
+  <rect width="320" height="105" fill="#fffaf0"/>
+  <g stroke="#6f6148" stroke-opacity=".06"><path d="M0 21H320M0 42H320M0 63H320M0 84H320M40 0V105M80 0V105M120 0V105M160 0V105M200 0V105M240 0V105M280 0V105"/></g>
+  <g shape-rendering="crispEdges"><path d="M42 18H174L150 44H66Z" fill="#dcebdd" stroke="#7faf87" stroke-width="2"/><path d="M70 48H146L132 68H84Z" fill="#9bbe9d" stroke="#2f7a51" stroke-width="3"/><path d="M88 72H128L120 90H96Z" fill="#2f7a51"/><rect x="204" y="22" width="76" height="14" fill="#f1d28f" stroke="#d1aa54" stroke-width="2"/><rect x="204" y="48" width="54" height="14" fill="#dcebdd" stroke="#7faf87" stroke-width="2"/><rect x="204" y="74" width="34" height="14" fill="#9bbe9d" stroke="#2f7a51" stroke-width="2"/></g>
+</svg>

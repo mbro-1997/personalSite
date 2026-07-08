@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 90" role="img" aria-label="云端发布">
+  <rect width="330" height="90" fill="#101a26"/>
+  <g stroke="#26394c" stroke-width="1"><path d="M0 18H330M0 36H330M0 54H330M0 72H330M33 0V90M66 0V90M99 0V90M132 0V90M165 0V90M198 0V90M231 0V90M264 0V90M297 0V90"/></g>
+  <g fill="none" stroke="#7eaad5" stroke-width="3"><path d="M76 58H140V34H206V58H266"/></g>
+  <g shape-rendering="crispEdges"><path d="M52 58H106C118 58 124 50 120 41C116 32 104 31 98 36C94 24 76 22 68 34C58 34 48 42 48 52C48 56 50 58 52 58Z" fill="#185aab" stroke="#8cc5ff" stroke-width="2"/><rect x="140" y="18" width="66" height="34" fill="#142b43" stroke="#3b82d6" stroke-width="2"/><rect x="154" y="30" width="14" height="10" fill="#8fe28c"/><rect x="178" y="30" width="14" height="10" fill="#8fe28c"/><rect x="266" y="45" width="38" height="26" fill="#2672c9"/></g>
+  <text x="124" y="82" fill="#9ccaff" font-family="monospace" font-size="12" font-weight="800">release online</text>
+</svg>

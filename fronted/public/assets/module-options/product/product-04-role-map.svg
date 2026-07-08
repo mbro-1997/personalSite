@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 105" role="img" aria-label="角色权限图">
+  <rect width="320" height="105" fill="#fffaf0"/>
+  <g stroke="#6f6148" stroke-opacity=".06"><path d="M0 21H320M0 42H320M0 63H320M0 84H320M40 0V105M80 0V105M120 0V105M160 0V105M200 0V105M240 0V105M280 0V105"/></g>
+  <g fill="none" stroke="#9fc2aa" stroke-width="2.5"><path d="M70 54H150M170 54H250M160 54V28M160 54V80"/></g>
+  <g shape-rendering="crispEdges"><rect x="42" y="34" width="44" height="40" fill="#5f9a70" stroke="#2f7a51" stroke-width="3"/><rect x="145" y="12" width="30" height="30" fill="#9bbe9d" stroke="#2f7a51" stroke-width="3"/><rect x="145" y="64" width="30" height="30" fill="#9bbe9d" stroke="#2f7a51" stroke-width="3"/><rect x="234" y="34" width="44" height="40" fill="#5f9a70" stroke="#2f7a51" stroke-width="3"/><rect x="56" y="46" width="16" height="10" fill="#d7e7d6"/><rect x="248" y="46" width="16" height="10" fill="#d7e7d6"/></g>
+</svg>

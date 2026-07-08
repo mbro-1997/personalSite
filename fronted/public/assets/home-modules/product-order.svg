@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 76" role="img" aria-label="订单状态">
+  <defs>
+    <pattern id="order-grid" width="12" height="12" patternUnits="userSpaceOnUse">
+      <path d="M12 0H0V12" fill="none" stroke="#6f6148" stroke-opacity=".045" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="280" height="76" fill="url(#order-grid)"/>
+  <g fill="none" stroke="#375047" stroke-width="2.5" stroke-linecap="square">
+    <path d="M42 38H238"/>
+  </g>
+  <g fill="none" stroke="#a7c6ad" stroke-width="2" stroke-dasharray="7 7" opacity=".62">
+    <path d="M83 24H197"/>
+  </g>
+  <g shape-rendering="crispEdges">
+    <circle cx="42" cy="38" r="12" fill="#9bbd96" stroke="#2f7a51" stroke-width="4"/>
+    <circle cx="107" cy="38" r="12" fill="#2f7a51" stroke="#1f5e3b" stroke-width="4"/>
+    <circle cx="173" cy="38" r="12" fill="#9bbd96" stroke="#2f7a51" stroke-width="4"/>
+    <circle cx="238" cy="38" r="12" fill="#2f7a51" stroke="#1f5e3b" stroke-width="4"/>
+    <path d="M38 37L42 41L49 31" fill="none" stroke="#fff8ea" stroke-width="3"/>
+    <rect x="101" y="32" width="12" height="12" fill="#d7e7d6" opacity=".72"/>
+    <path d="M169 37L173 41L180 31" fill="none" stroke="#2f7a51" stroke-width="3"/>
+    <rect x="232" y="32" width="12" height="12" fill="#d7e7d6" opacity=".72"/>
+    <rect x="132" y="55" width="44" height="5" fill="#c9c0ae"/>
+    <rect x="204" y="17" width="8" height="8" fill="#d7b35f" fill-opacity=".38"/>
+  </g>
+</svg>
